@@ -6,9 +6,12 @@
 - python 2.7
 
 # Result
+task1 acc:99.00%
 
-|task1|acc:99.00%|
+task2 acc:47.78%
 
+task3 acc:40.23
 
-|task2|acc:47.78%|
-...
+task4 acc:68.82
+
+Task5 Acc: 80.86
