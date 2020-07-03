@@ -1,6 +1,6 @@
-# @Time    : 2019/5/17 14:59
-# @Author  : shakespere
-# @FileName: utils.py
+# encoding: utf-8
+
+
 import os
 import re
 from functools import reduce

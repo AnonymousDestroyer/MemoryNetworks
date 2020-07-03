@@ -1,6 +1,6 @@
-# @Time    : 2019/5/17 14:22
-# @Author  : shakespere
-# @FileName: memn2n.py
+# encoding: utf-8
+
+
 import torch
 import torch.nn as nn
 import torch.nn.functional as F
