@@ -8,8 +8,6 @@ import torch.nn as nn
 from utils import load_data,to_var,vectorize
 from memn2n import MemNN
 
-
-
 os.environ['CUDA_VISIBLE_DEVICES'] = '0,1'
 parser = argparse.ArgumentParser()
 parser.add_argument('--embed_size',type=int,default=30,help='default 30.word embedding size')
