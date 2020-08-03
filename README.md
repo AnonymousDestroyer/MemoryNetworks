@@ -17,3 +17,6 @@ task4 acc:68.82%
 task5 Acc: 80.86%
 
 。。。。
+
+# Requirements
+![image](https://github.com/AnonymousDestroyer/MemoryNetworks/blob/master/pic/111.jpg)
